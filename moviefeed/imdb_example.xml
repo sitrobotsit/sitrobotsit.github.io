@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IMDBDocumentList>
+    <item>
+        <rating>7.1</rating>
+        <rating_count>126954</rating_count>
+        <year>2013</year>
+        <genres>
+            <item>Action</item>
+            <item>Adventure</item>
+            <item>Mystery</item>
+            <item>Sci-Fi</item>
+        </genres>
+        <rated>PG-13</rated>
+        <title>Oblivion</title>
+        <imdb_url>http://www.imdb.com/title/tt1483013/</imdb_url>
+        <directors>
+            <item>Joseph Kosinski</item>
+        </directors>
+        <writers>
+            <item>Karl Gajdusek</item>
+            <item>Michael Arndt</item>
+        </writers>
+        <actors>
+            <item>Tom Cruise</item>
+            <item>Morgan Freeman</item>
+            <item>Olga Kurylenko</item>
+            <item>Andrea Riseborough</item>
+            <item>Nikolaj Coster-Waldau</item>
+            <item>Melissa Leo</item>
+            <item>Zoe Bell</item>
+            <item>Abigail Lowe</item>
+            <item>Isabelle Lowe</item>
+            <item>David Madison</item>
+        </actors>
+        <plot_simple>A veteran assigned to extract Earth's remaining resources begins to question what he knows about
+            his mission and himself.
+        </plot_simple>
+        <type>M</type>
+        <poster>
+            <imdb>http://ia.media-imdb.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_SX214_.jpg
+            </imdb>
+            <cover>http://imdb-poster.b0.upaiyun.com/001/483/013.jpg!cover?_upt=0441b9db1378453044</cover>
+        </poster>
+        <imdb_id>tt1483013</imdb_id>
+        <also_known_as>
+            <item>Yi Luo Zhan Jing</item>
+        </also_known_as>
+        <language>
+            <item>English</item>
+        </language>
+        <country>
+            <item>USA</item>
+        </country>
+        <release_date>20130510</release_date>
+        <filming_locations>New York City, New York, USA</filming_locations>
+        <runtime>
+            <item>124 min</item>
+        </runtime>
+    </item>
+</IMDBDocumentList>
